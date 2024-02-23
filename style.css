@@ -1,0 +1,57 @@
+body{
+    background-image: url("A3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainheading{
+font-size: 50px;
+    padding: 40px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bio{
+    text-align: center;
+    font-size: 40px;
+}
+.name{
+    text-align: left;
+    font-size: 25px;
+
+}
+.email{
+    text-align: left;
+    font-size: 25px;
+}
+.phone{
+    text-align: left;
+    font-size: 25px;
+}
+.dob{
+    text-align: left;
+    font-size: 25px;
+}
+.father{
+    text-align: left;
+    font-size: 25px;
+}
+.address{
+    text-align: left;
+    font-size: 25px;
+}
+.language{
+    text-align: left;
+    font-size: 25px;
+
+}
+.degree{
+    text-align: left;
+    font-size: 25px;
+}
+.skills{
+    text-align: left;
+    font-size: 25px;
+}
+.passout{
+    text-align: left;
+    font-size: 25px;
+}
